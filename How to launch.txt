@@ -1,0 +1,6 @@
+open photo_editor.py with python 3.6
+after making sure all the requirements are met
+
+then run module (F5)
+
+after a few seconds, the program will launch
